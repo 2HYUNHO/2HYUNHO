@@ -8,7 +8,7 @@
 🗓️ 1995.03.14<br>
 📞 010-****-****<br>
 ✉️ ****@gmail.com<br>
-🏠 서울특별시 동작구<br>
+🏠 서울특별시<br>
 </div>
 
 <br>
@@ -31,8 +31,8 @@
 "일단 해보자"가 인생의 모토입니다. 후회없는 인생을 살고싶어 다니던 직장을 그만두고 하고 싶었던 코딩 공부를 시작하게 되었습니다. iOS개발자의 길이 쉽진 않을 것으로 예상됩니다. 모두 길을 만들어서라도 다같이 힘내서 공부합시다!
 
 ## Work Experience  
-- 수원대학교 창업지원단 <span style="color:grey; font-size: 15px">예비창업패키지 사업부 전임매니저 (2021.04 ~ 2022.04)</span>
-- 이투스에듀 주식회사 <span style="color:grey; font-size: 15px">IT본부 사업팀 (2022.06 ~ 2023.07)</span>
+- 수원대학교 창업지원단 <span style="color:grey; font-size: 15px">예비창업패키지 사업부 전임매니저 2021.04 ~ 2022.04</span>
+- 이투스에듀 주식회사 <span style="color:grey; font-size: 15px">IT본부 사업팀 2022.06 ~ 2023.07</span>
 
 ## Education   
 -  수원대학교 <span style="color:grey; font-size: 15px">국어국문학(졸) 2015.03 ~ 2021.02</span>
