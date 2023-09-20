@@ -12,16 +12,16 @@
 </div>
 
 <br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="height : auto;  : 10px;"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" style="height : auto; "/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" style="height : auto; "/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 
 <br>
 
@@ -57,12 +57,12 @@
    
 ## Projects & Portfolios
 - [Flutter 앱개발 최종프로젝트]
-  - [디자인](https://www.figma.com/file/QhxscNouFDBFoUP6IbEds5/%EC%B0%BD?type=design&node-id=144-2168&mode=design){:target="_blank"}
+  - [디자인](https://www.figma.com/file/QhxscNouFDBFoUP6IbEds5/%EC%B0%BD?type=design&node-id=144-2168&mode=design)
   - [Notion](https://teamsparta.notion.site/MAC-b7b1cbec9e0541fa817cbf7fcd479a78) {: target="_blank"}
-  - [github](https://github.com/2HYUNHO/Mac_gyver){:target="_blank"}
-  - [작동영상](https://www.youtube.com/watch?v=Le9WJm-BpEY){:target="_blank"}
+  - [github](https://github.com/2HYUNHO/Mac_gyver)
+  - [작동영상](https://www.youtube.com/watch?v=Le9WJm-BpEY)
 - [Flutter 앱개발 미니프로젝트]
-  - [Notion](https://www.notion.so/6-mindful-stock-2ad1d62b50fc423a9558b63bce839223){:target="_blank"}
+  - [Notion](https://www.notion.so/6-mindful-stock-2ad1d62b50fc423a9558b63bce839223)
 
 ## Others  
 -  Military Service: 병장 <span style="color:grey; font-size: 15px">만기전역 2016.07 ~ 2018.04</span>
