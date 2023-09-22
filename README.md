@@ -7,7 +7,7 @@
 <div class=pull-left>
 📞 010-****-****<br>
 ✉️ ****@gmail.com<br>
-🏠 서울특별시%<br>
+🏠 서울특별시<br>
 </div>
 
 <br>
