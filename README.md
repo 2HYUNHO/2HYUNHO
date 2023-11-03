@@ -22,4 +22,4 @@
 ## About Me 
 Welcome <br>
 
-![hyunho-lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=2HYUNHO&theme=transparent&show_icons=true)
+![hyunho Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=2HYUNHO&theme=transparent&show_icons=true)
