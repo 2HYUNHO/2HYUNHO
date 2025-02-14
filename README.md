@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=iOS&nbsp;&nbsp;Developer&fontAlign=25&fontSize=54&color=gradient)
 
-<img src="https://github.com/2HYUNHO/HyunhoLee/assets/102159946/a6c2cf7c-cef5-4ff0-b7b9-78d9780ed3b2/" align="left" width="150" height="150">
-</div>
 
 ## 이현호 <span style="color:grey; font-size: 19px">Hyunho Lee</span>
 <div class=pull-left>
