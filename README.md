@@ -3,9 +3,7 @@
 
 ## 이현호 <span style="color:grey; font-size: 19px">Hyunho Lee</span>
 <div class=pull-left>
-📞 010-****-****<br>
-✉️ ****@gmail.com<br>
-🏠 서울특별시<br>
+
 </div>
 
 <br>
