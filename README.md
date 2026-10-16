@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=iOS&nbsp;&nbsp;Developer&fontAlign=25&fontSize=54&color=gradient)
-
-
 ## 이현호 <span style="color:grey; font-size: 19px">Hyunho Lee</span>
 <div class=pull-left>
 
